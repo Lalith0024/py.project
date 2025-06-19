@@ -27,3 +27,4 @@ places = [
     "at India Gate", "inside Lok Sabha", "near Taj Mahal", "in Mumbai local", "on Mars", "at Ganga ghat",
     "inside a Zoom call", "on a WhatsApp group", "in a haunted house"
 ]
+# export subjects, actions, places

@@ -1,5 +1,5 @@
 import random
-from categories import subjects, actions, places
+from headlinedata import subjects, actions, places
 
 def get_random_headline(category):
     subject = random.choice(subjects.get(category, subjects["random"]))
